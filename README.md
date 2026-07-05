@@ -69,16 +69,15 @@ This project helped me understand:
 
 ## Screenshots
 
-## Screenshots
+### Azure Blob Storage README
+![Azure Blob Storage README](IMG_1045.png)
 
-### Azure Storage Account
-(Add screenshot)
+### Azure Storage Center
+![Azure Storage Center](IMG_1018.jpeg)
 
-### Blob Container
-(Add screenshot)
+### Creating the Blob Container
+![Blob Container](IMG_1030.jpeg)
 
-### Uploaded Blob
-(Add screenshot)
+### Uploaded Blob File
+![Uploaded Blob](IMG_1036.jpeg)
 
-### GitHub Repository
-(Add screenshot)
