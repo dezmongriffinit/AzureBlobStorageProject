@@ -69,4 +69,16 @@ This project helped me understand:
 
 ## Screenshots
 
-(Add your screenshots here as you continue building your portfolio.)
+## Screenshots
+
+### Azure Storage Account
+(Add screenshot)
+
+### Blob Container
+(Add screenshot)
+
+### Uploaded Blob
+(Add screenshot)
+
+### GitHub Repository
+(Add screenshot)
